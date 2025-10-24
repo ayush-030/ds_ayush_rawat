@@ -38,6 +38,16 @@ The analysis focuses on market sentiment trends, trading profitability, risk, an
 
 ---
 
+## 📓 Notebooks
+
+All analysis and visualizations were performed in Google Colab. You can view the notebooks using the links below:
+
+- **Trader Behavior Analysis Notebook:** [View in Colab](https://colab.research.google.com/drive/1f0urEkrd9Rr7I3nxGZKXKwSArjZgMzg8?usp=sharing)  
+
+> ⚠️ **Note:** The notebooks are view-only. To run them, open the link in Google Colab.
+
+---
+
 ## 📈 Visual Outputs
 
 - **average_pnl_vs_sentiment.png** — Shows the relationship between average trader profit/loss and market sentiment (Fear vs Greed)
