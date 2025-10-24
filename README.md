@@ -9,14 +9,15 @@ The analysis focuses on market sentiment trends, trading profitability, risk, an
 ## 📂 Datasets
 
 - **Fear & Greed Index**
-  - File: `csv_files/fear_greed.csv`
-  - Source: [Alternative.me – Fear & Greed Index API](https://api.alternative.me/fng/)
-  - Columns: `date`, `value`, `classification`, `timestamp`
+  - File: `csv_files/fear_greed_index.csv`
+  - Can be downloaded from: [Google Drive link](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+  - Columns: `timestamp`, `value`, `classification`, `date`
 
 - **Historical Trader Data**
   - File: `csv_files/historical_data.csv` (≈45 MB)
   - ⚠️ Not included in the repo due to size constraints
   - Can be downloaded from: [Google Drive link](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+  - Columns: `Account`, `Coin`, `Execution Price`, `Size Tokens`, `Size USD`, `Side`, `Timestamp IST`, `Start Position`, `Direction`, `Closed PnL`, `Transaction Hash`, `Order ID`, `Crossed`, `Fee`, `Trade ID`, `Timestamp`, `trade_date`  
 
 ---
 
