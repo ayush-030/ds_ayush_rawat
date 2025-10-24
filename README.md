@@ -52,7 +52,7 @@ The analysis focuses on market sentiment trends, trading profitability, risk, an
 
 1. Open the notebook: `notebooks/notebook_1.ipynb` in Google Colab  
 2. Ensure the datasets are in `csv_files/`  
-3. Run all cells sequentially to reproduce analysis and generate plots in `output/`
+3. Run all cells sequentially to reproduce analysis and generate plots in `outputs/`
 
 ---
 
@@ -67,7 +67,7 @@ The analysis focuses on market sentiment trends, trading profitability, risk, an
 ## 👤 Author
 
 **Ayush Rawat**  
-📧 [ayushrawat521@gmail.com](mailto:ayushrawat521@gmail.com)  
+📧 [rawat.ayush.work@gmail.com](mailto:rawat.ayush.work@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayushrawat20)
 
 ---
@@ -76,7 +76,7 @@ The analysis focuses on market sentiment trends, trading profitability, risk, an
 
 This repository is structured as per **Primetrade.ai Data Science Internship** requirements, including:
 
-- Structured directories (`csv_files/`, `notebooks/`, `output/`)  
+- Structured directories (`csv_files/`, `notebooks/`, `outputs/`)  
 - Professional report in PDF  
 - Visual EDA outputs in PNG format  
 - Colab notebook with all analysis steps
