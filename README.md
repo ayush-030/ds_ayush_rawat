@@ -33,7 +33,7 @@ The analysis focuses on market sentiment trends, trading profitability, risk, an
 ## 🛠 Tech Stack
 
 - **Language:** Python 🐍  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, gdown
 - **Environment:** Google Colab / Jupyter Notebook  
 
 ---
